@@ -1,4 +1,5 @@
-install PyPDF2 and PIL for this to work.
+to make .py file to run you have to
+install PyPDF2 and PIL.
 Paste this file in the directory where your images are. Only .png and jpg are supported!
 *if you want any other image file type just add  <    or names[-3:] == 'extension'  > in line number 15
 
